@@ -38,7 +38,8 @@ print("The optimal value is : ", end = "")
   print(minimax(0, 0, True, scores, treeDepth))
 ```
 ### Output:
-(https://github.com/Kulaganachi/AI_Lab_2023-24/assets/133641126/4bd1a089-539f-412f-aa36-652771df06a1)
+![ai ex-3 1](https://github.com/Kulaganachi/AI_Lab_2023-24/assets/133641126/ae3ab29b-d7b1-4102-92c6-552d6a0dd344)
+
 
 ### Result:
 Thus the optimum value of max player was found using minimax search.
