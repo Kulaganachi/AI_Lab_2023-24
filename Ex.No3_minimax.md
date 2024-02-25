@@ -39,7 +39,8 @@ print("The optimal value is : ", end = "")
 ```
 ### Output:
 
-![WhatsApp Image 2024-02-25 at 17 42 29_f2577752](https://github.com/Kulaganachi/AI_Lab_2023-24/assets/133641126/5c98e654-e10e-4523-b40c-a5d2938d205e)
+![image](https://github.com/Kulaganachi/AI_Lab_2023-24/assets/133641126/d0858bd1-6575-4d41-8ceb-6d0151dd05b5)
+
 
 
 ### Result:
